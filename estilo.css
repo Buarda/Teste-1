@@ -1,0 +1,26 @@
+h1{
+    color: rgb(37, 145, 109);
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: rgb(94, 153, 231);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+body {
+    background-color: black;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h5{ 
+    color: aliceblue;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
